@@ -1,5 +1,4 @@
 # Python bytecode 3.7 (3394)
-# Embedded file name: C:\Users\cagri\PycharmProjects\Monte_Carlo\iter\inter1.py
 # Size of source mod 2**32: 4643 bytes
 import numpy as np
 import matplotlib.pyplot as plt
